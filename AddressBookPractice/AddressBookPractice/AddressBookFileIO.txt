@@ -1,0 +1,51 @@
+------------------------------
+Address Book:	home
+------------------------------
+First Name: dwight
+Last Name: schrute
+Address: farm
+City: scranton
+State: pensilvania
+Zip: 453453
+Phone number: 23648264732
+Email: dwight@gmail.com
+------------------------------
+First Name: Jim
+Last Name: Halpert
+Address: park ave
+City: scranton
+State: pensilvania
+Zip: 854643
+Phone number: 234534534535
+Email: jim@gmail.com
+------------------------------
+First Name: Pam
+Last Name: Beasley
+Address: bell street
+City: Scranton
+State: pensilvania
+Zip: 345345
+Phone number: 9876543843
+Email: pam@gmail.com
+------------------------------
+------------------------------
+Address Book:	office
+------------------------------
+First Name: david
+Last Name: wallace
+Address: city park
+City: new york
+State: ny
+Zip: 453545
+Phone number: 34534534535
+Email: david@gmail.com
+------------------------------
+First Name: Michael
+Last Name: Scott
+Address: condo
+City: scranton
+State: pensilvania
+Zip: 435345
+Phone number: 7483274932
+Email: michael@gmail.com
+------------------------------
